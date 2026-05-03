@@ -1,9 +1,7 @@
 # AI & Radiologists — Analyzing How AI Influences Diagnostic Efficiency
 
-**Course:** BAN 5573 — Visual Analytics & Business Intelligence  
-**Institution:** Clark University School of Business  
-**Term:** Spring 2025  
-**Team:** Kubra Banu, Joash Kawal, Aman, Manikar Goud Rasamalla
+**Author:** Kubra Banu
+**Network:** Ethereum — N/A (Data Science Project)
 
 ---
 
